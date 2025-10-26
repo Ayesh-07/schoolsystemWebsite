@@ -1,0 +1,88 @@
+# School System Website (Frontend Project)
+
+A responsive **School System Website** built using **HTML5**, **CSS3**, and **Bootstrap 5**.  
+This project demonstrates the use of Bootstrap components to create a clean, organized, and mobile-friendly school website.
+
+---
+
+## Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+
+---
+
+## Project Requirements
+
+### Admission Section
+
+####  Admission Form
+Create an admission form using **Bootstrap form components**.  
+The form should collect the following details:
+
+- Full Name  
+- Date of Birth  
+- Email Address  
+- Contact Number  
+- Grade Level Applying For  
+- Address  
+
+
+### Faculty Section
+
+#### Teachers List
+Display a list of teachers in the school.  
+Each teacher’s card should include:
+
+
+Use **Bootstrap Cards** or the **Grid System** for a visually appealing and responsive layout.
+
+---
+
+
+### Subjects Offered
+
+#### Subject List
+List the main subjects taught at the school using one of the following:
+
+- A **Responsive Table**, or  
+- A **Bootstrap Grid/List** with subject names and short descriptions.
+
+---
+
+## Design Guidelines
+
+- Use **Bootstrap** for all layout, responsiveness, and styling (avoid plain HTML styling).  
+- Ensure the website is **mobile-friendly** and works well on different screen sizes.  
+- Apply **consistent color themes**, **spacing**, and **font sizes** throughout the site.  
+- Include a **Navigation Bar** at the top to link to each section:
+  - Home  
+  - Admission  
+  - Faculty  
+  - Vision  
+  - Subjects  
+
+
+##  Expected Website Sections
+
+| Section | Description |
+|----------|--------------|
+|  Home | Introduction to the school |
+|  Admission | Form to apply for admission |
+|  Faculty | Cards showing teacher info |
+|  Subjects | List or table of subjects offered |
+|  Footer | Contact info and social links |
+
+---
+
+##  Responsiveness
+Works perfectly on:
+- Desktop   
+- Tablet  
+- Mobile  
+
+---
+
+
+
