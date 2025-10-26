@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+
+:root {
+  --primary-color: #0b7c74;
+  --secondary-color: #ffd64d;
+  --accent-color: #f6b8a3;
+  --light-bg: #dcece9;
+  --text-dark: #092c2d;
+}
+
+.custom-bg {
+  background-color: var(--text-dark);
+  color: var(--light-bg) !important;
+}
+
+.btn-sign{
+    color: var(--light-bg);
+    background-color: orange;
+    
+}
+
+.btn-sign:hover{
+    color: var(--text-dark);
+    background-color: var(--light-bg);
+}
+
+.nav-link:hover {
+  color: var(--secondary-color) !important;
+  transition: 0.3s ease-in-out;
+}
+.carousel-item img {
+  height: 400px;
+  object-fit: cover;
+}
+.form-bg{
+background-color: #f6b8a3;
+}
+
+.text-container{
+    color: #092c2d;
+}
+
+.btn-sub{
+    background-color: #0b7c74;
+    color: #dcece9;
+}
+
+.btn-sub:hover{
+    background-color:#dcece9;
+    color:    #0b7c74;
+}
+
+body{
+     font-family: "Teachers", sans-serif;
+     background-color: #dcece9;
+}
+
+.bg-cust{
+    background-color: #092c2d;
+}
+
+.image-custom{
+    background-color: #092c2d;
+}
+
+.btn-learn {
+    background-color: #f6b8a3;
+}
+
+.btn-meet{
+    background-color: #ffd64d;
+}
+
+.btn-explo{
+    background-color:#dcece9;
+}
+
+.card:hover{
+    background-color: var(--text-dark);
+    color: aliceblue;
+}
+
+.bi{
+    font-size: 2rem;
+    color: white;
+ 
+    
+}
+
+
+
